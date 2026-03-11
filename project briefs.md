@@ -189,10 +189,10 @@
 
 | 항목 | 내용 |
 |------|------|
-| 프로젝트명 |  |
-| 트랙 |  |
+| 프로젝트명 | 퀀트 전략 상태 모니터링 및 이상 징후 탐지 시스템 |
+| 트랙 | 산학 |
 | 팀명 | Cloud9 |
-| 팀구성 |  |
+| 팀구성 | 박나림, 임도경, 최은우 |
 | 팀지도교수 |  |
 | 무엇을 만들고자 하는가 | 퀀트 전략 실시간 상태 모니터링 및 이상 징후 탐지 시스템 |
 | 고객 (누구를 위해) | 개인 자동매매 투자자 |
@@ -200,8 +200,8 @@
 | 사용 기술 | Isolation Forest나 Autoencoder 같은 모델로 AI 기반 이상 탐지 |
 | 기대 효과 | 손실 최소화 |
 | GitHub Repo | [https://github.com/Cloud9-capstone-2026](https://github.com/Cloud9-capstone-2026) |
-| Team Ground Rule |  |
-| 최종수정일 |  |
+| Team Ground Rule | [Team Ground Rule](https://github.com/Cloud9-capstone-2026/cloud9/blob/main/Team_Ground_Rule.md) |
+| 최종수정일 | 2026.03.11 |
 
 [↑ 목록으로](#2026-spring-전체-프로젝트-리스트)
 
