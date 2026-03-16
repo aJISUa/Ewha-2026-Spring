@@ -124,8 +124,8 @@
 
 | 항목 | 내용 |
 |------|------|
-| 프로젝트명 | 스토리 기반 관광 활성화 프로젝트 |
-| 서비스명(브랜드) | |
+| 프로젝트명 | AI 역사 인물 인터랙션과 다국어 스토리 콘텐츠 기반 역사 관광 활성화 웹 플랫폼 |
+| 서비스명(브랜드) | Histour |
 | 트랙 | 산학 |
 | 팀명 | Greenfield |
 | 팀구성 | 최준희, 권은재, 김재희 |
@@ -137,7 +137,7 @@
 | 기대 효과 | 스토리 기반 접근을 통해 외국인과 국내 사용자 모두가 한국 역사를 쉽게 이해하고 실제 역사 장소를 체험하도록 유도하여 문화관광 참여도와 관광 활성화를 동시에 높이기 |
 | GitHub Repo | [https://github.com/greenfield-2026-capstone/greenfield-project](https://github.com/greenfield-2026-capstone/greenfield-project) |
 | Team Ground Rule | https://github.com/greenfield-2026-capstone/greenfield-project/blob/main/Team_Ground_Rule.md |
-| 최종수정일 | 2026.3.15 |
+| 최종수정일 | 2026.3.16 |
 
 [↑ 목록으로](#2026-spring-전체-프로젝트-리스트)
 
