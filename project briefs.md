@@ -341,7 +341,7 @@
 
 | 항목 | 내용 |
 |------|------|
-| 프로젝트명 | Split-Computing Vision Inference System |
+| 프로젝트명 | 엣지 환경 배포를 위한 Vision Transformer 구조적 가지치기 및 경량화 파이프라인 구축과 성능 분석 |
 | 서비스명(브랜드) | |
 | 트랙 | 연구 |
 | 팀명 | 햄부기 |
